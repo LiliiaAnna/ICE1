@@ -25,3 +25,5 @@ public class CardDealer
     }
    
 }
+
+String[] card_suit = {"Clubs", "Hearts", "Spades", "Diamonds"}; //here I display suits
