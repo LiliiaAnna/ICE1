@@ -7,8 +7,9 @@ package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
  * The class where we create Cards
- * @author dancye, 2019
+ * @author liliia anna, 2022
  */
+//Student Number 991650300
 
 //This is my comment from 1st february by Liliia Anna Korol
 
@@ -17,7 +18,10 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
+        
+         Card card = new Card("Hearts", 10);
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
     }
+   
 }
