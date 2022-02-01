@@ -10,6 +10,10 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * Created in Week 2 for the cloning repository demo
  * @author dancye, 2019
  */
+
+//This is my comment from 1st february by Liliia Anna Korol
+
+
 public class Card 
 {
     private String suit;// hearts, diamonds, spades and clubs
